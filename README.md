@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 ## Today's Azure Updates
 
 <!--START_SECTION:feed-->
-* [Public preview: Azure NetApp Files datastores for Azure VMware Solution](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;public-preview-azure-netapp-files-datastores-for-azure-vmware-solution-public-preview-2-2&#x2F;)
-* [General availability: Trusted launch support for virtual machines using Ephemeral OS disks](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;general-availability-trusted-launch-support-for-virtual-machines-using-ephemeral-os-disks&#x2F;)
-* [Public preview: ExpressRoute IPv6 Support for Global Reach](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;public-preview-expressroute-ipv6-support-for-global-reach&#x2F;)
-* [General availability: Updates for resource configuration changes](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;ga-updates-resource-configuration-changes&#x2F;)
-* [Public preview: Azure Percept DK May (2205) software update](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;apdk2205update&#x2F;)
+* [General availability: Azure Databricks available in new regions](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;general-availability-azure-databricks-available-in-new-regions&#x2F;)
+* [General availability: Azure SDK for Go](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;general-availability-azure-sdk-for-go&#x2F;)
+* [Public preview: Azure Load Testing supports splitting input data across test engines](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;public-preview-azure-load-testing-supports-splitting-input-data-across-test-engines&#x2F;)
+* [Public preview: Azure Load Testing support for user specified JMeter properties](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;public-preview-azure-load-testing-support-for-user-specified-jmeter-properties&#x2F;)
+* [Public preview: Azure Load Testing support for customer-managed keys](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;public-preview-azure-load-testing-support-for-customermanaged-keys&#x2F;)
 <!--END_SECTION:feed-->
 
 ## Today's Azure Blog
