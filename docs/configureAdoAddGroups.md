@@ -357,20 +357,3 @@ A [security principal (sometimes known as an SPN)](https://docs.microsoft.com/en
 - Enter the name of your AAD/AD group, select a project to add them to, then select *Add*
 
 
-==This text is highlighted==
-
-I get 10 times more traffic from [Google][1] than from
-[Yahoo][2] or [MSN][3].
-
-[1]: http://google.com/
-[2]: http://search.yahoo.com/
-[3]: http://search.msn.com/
-
-
-I start my morning with a cup of coffee and
-[The New York Times][NY Times].
-
-[ny times]: http://www.nytimes.com/
-
-CVE-2011-0242 could perhaps be categorized as CWE-79 of CAPEC-63.
-
