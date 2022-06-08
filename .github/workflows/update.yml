@@ -1,0 +1,40 @@
+name: Update this repo's README
+
+on:
+  schedule:
+  - cron: "0 8 * * *"
+  push:
+      branches:
+      - main
+
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v4
+
+    - uses: JasonEtco/rss-to-readme@v1
+      with:
+        feed-url: https://azurecomcdn.azureedge.net/en-us/updates/feed
+        readme-section: feed
+
+    - uses: JasonEtco/rss-to-readme@v1
+      with:
+        feed-url: https://news.microsoft.com/feed/
+        readme-section: news
+
+    - uses: JasonEtco/rss-to-readme@v1
+      with:
+        feed-url: https://azure.microsoft.com/en-us/blog/feed
+        readme-section: blog
+
+    - uses: JasonEtco/rss-to-readme@v1
+      with:
+        feed-url: https://blog.botframework.com/feed
+        readme-section: bot
