@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 ## Today's Azure Blog
 
 <!--START_SECTION:blog-->
+* [Improve outbound connectivity with Azure Virtual Network NAT](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;improve-outbound-connectivity-with-azure-virtual-network-nat&#x2F;)
+* [Top 5 reasons to attend Azure Hybrid, Multicloud, and Edge Day](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;top-5-reasons-to-attend-azure-hybrid-multicloud-and-edge-day&#x2F;)
+* [SUSECON 2022: Powering Business Critical Linux workloads on Azure](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;susecon-2022-powering-business-critical-linux-workloads-on-azure&#x2F;)
 * [Virtual desktop infrastructure security best practices](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;virtual-desktop-infrastructure-security-best-practices&#x2F;)
 * [Unlocking innovative at-home patient care solutions with Azure](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;unlocking-innovative-athome-patient-care-solutions-with-azure&#x2F;)
-* [Power your file storage-intensive workloads with Azure VMware Solution](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;power-your-file-storageintensive-workloads-with-azure-vmware-solution&#x2F;)
-* [Start skilling on Azure with these helpful guides](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;start-skilling-on-azure-with-these-helpful-guides&#x2F;)
-* [Find out why your SQL Server data belongs on Azure](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;find-out-why-your-sql-server-data-belongs-on-azure&#x2F;)
 <!--END_SECTION:blog-->
 
 ## Today's Micrososft News
