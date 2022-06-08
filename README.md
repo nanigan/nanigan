@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 ## Today's Micrososft News
 
 <!--START_SECTION:news-->
+* [Meet the Hive, crafting a new hybrid meeting room experience](https:&#x2F;&#x2F;techcommunity.microsoft.com&#x2F;t5&#x2F;microsoft-teams-blog&#x2F;crafting-a-new-hybrid-meeting-room-experience-at-microsoft-with&#x2F;ba-p&#x2F;3478711)
+* [Top 5 reasons to attend Azure Hybrid, Multicloud and Edge Day June 15](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;blog&#x2F;top-5-reasons-to-attend-azure-hybrid-multicloud-and-edge-day&#x2F;)
 * [Procter &amp; Gamble’s CIO believes passion is contagious. His latest passion: digitally remaking the 185-year-old company](https:&#x2F;&#x2F;news.microsoft.com&#x2F;transform&#x2F;procter-gambles-cio-believes-passion-is-contagious-his-latest-passion-digitally-remaking-the-185-year-old-company&#x2F;)
 * [P&amp;G and Microsoft co-innovate to build the future of digital manufacturing](https:&#x2F;&#x2F;news.microsoft.com&#x2F;2022&#x2F;06&#x2F;08&#x2F;pg-and-microsoft-co-innovate-to-build-the-future-of-digital-manufacturing&#x2F;)
 * [Microsoft Garage opens in Atlanta as a hub for tech talent and community growth](https:&#x2F;&#x2F;www.microsoft.com&#x2F;en-us&#x2F;garage&#x2F;blog&#x2F;2022&#x2F;06&#x2F;microsoft-garage-opens-in-atlanta-as-a-hub-for-tech-talent-and-community-growth-driving-innovation-and-inspiration&#x2F;)
-* [How Microsoft Teams is expanding background noise suppression across platforms and scenarios](https:&#x2F;&#x2F;techcommunity.microsoft.com&#x2F;t5&#x2F;microsoft-teams-blog&#x2F;expanding-background-noise-suppression-across-platforms-and&#x2F;ba-p&#x2F;3300366)
-* [Why buildings are getting more efficient, safe and sustainable](https:&#x2F;&#x2F;cloudblogs.microsoft.com&#x2F;industry-blog&#x2F;government&#x2F;2022&#x2F;06&#x2F;07&#x2F;why-the-future-of-buildings-is-efficient-safe-and-sustainable&#x2F;)
 <!--END_SECTION:news-->
 
 ## Today's Bot Framework Updates
