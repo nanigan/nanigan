@@ -21,31 +21,31 @@ Here are some ideas to get you started:
 ## Today's Azure Updates
 
 <!--START_SECTION:feed-->
-* [Public preview: Azure NetApp Files datastores for Azure VMware Solution](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;public-preview-azure-netapp-files-datastores-for-azure-vmware-solution-public-preview-2-2&#x2F;)
-* [General availability: Trusted launch support for virtual machines using Ephemeral OS disks](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;general-availability-trusted-launch-support-for-virtual-machines-using-ephemeral-os-disks&#x2F;)
-* [Public preview: ExpressRoute IPv6 Support for Global Reach](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;public-preview-expressroute-ipv6-support-for-global-reach&#x2F;)
-* [General availability: Updates for resource configuration changes](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;ga-updates-resource-configuration-changes&#x2F;)
-* [Public preview: Azure Percept DK May (2205) software update](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;apdk2205update&#x2F;)
+* [General availability: Azure Databricks available in new regions](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;general-availability-azure-databricks-available-in-new-regions&#x2F;)
+* [General availability: Azure SDK for Go](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;general-availability-azure-sdk-for-go&#x2F;)
+* [Public preview: Azure Load Testing supports splitting input data across test engines](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;public-preview-azure-load-testing-supports-splitting-input-data-across-test-engines&#x2F;)
+* [Public preview: Azure Load Testing support for user specified JMeter properties](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;public-preview-azure-load-testing-support-for-user-specified-jmeter-properties&#x2F;)
+* [Public preview: Azure Load Testing support for customer-managed keys](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;public-preview-azure-load-testing-support-for-customermanaged-keys&#x2F;)
 <!--END_SECTION:feed-->
 
 ## Today's Azure Blog
 
 <!--START_SECTION:blog-->
+* [Improve outbound connectivity with Azure Virtual Network NAT](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;improve-outbound-connectivity-with-azure-virtual-network-nat&#x2F;)
+* [Top 5 reasons to attend Azure Hybrid, Multicloud, and Edge Day](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;top-5-reasons-to-attend-azure-hybrid-multicloud-and-edge-day&#x2F;)
+* [SUSECON 2022: Powering Business Critical Linux workloads on Azure](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;susecon-2022-powering-business-critical-linux-workloads-on-azure&#x2F;)
 * [Virtual desktop infrastructure security best practices](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;virtual-desktop-infrastructure-security-best-practices&#x2F;)
 * [Unlocking innovative at-home patient care solutions with Azure](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;unlocking-innovative-athome-patient-care-solutions-with-azure&#x2F;)
-* [Power your file storage-intensive workloads with Azure VMware Solution](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;power-your-file-storageintensive-workloads-with-azure-vmware-solution&#x2F;)
-* [Start skilling on Azure with these helpful guides](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;start-skilling-on-azure-with-these-helpful-guides&#x2F;)
-* [Find out why your SQL Server data belongs on Azure](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;find-out-why-your-sql-server-data-belongs-on-azure&#x2F;)
 <!--END_SECTION:blog-->
 
 ## Today's Micrososft News
 
 <!--START_SECTION:news-->
+* [Meet the Hive, crafting a new hybrid meeting room experience](https:&#x2F;&#x2F;techcommunity.microsoft.com&#x2F;t5&#x2F;microsoft-teams-blog&#x2F;crafting-a-new-hybrid-meeting-room-experience-at-microsoft-with&#x2F;ba-p&#x2F;3478711)
+* [Top 5 reasons to attend Azure Hybrid, Multicloud and Edge Day June 15](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;blog&#x2F;top-5-reasons-to-attend-azure-hybrid-multicloud-and-edge-day&#x2F;)
 * [Procter &amp; Gamble’s CIO believes passion is contagious. His latest passion: digitally remaking the 185-year-old company](https:&#x2F;&#x2F;news.microsoft.com&#x2F;transform&#x2F;procter-gambles-cio-believes-passion-is-contagious-his-latest-passion-digitally-remaking-the-185-year-old-company&#x2F;)
 * [P&amp;G and Microsoft co-innovate to build the future of digital manufacturing](https:&#x2F;&#x2F;news.microsoft.com&#x2F;2022&#x2F;06&#x2F;08&#x2F;pg-and-microsoft-co-innovate-to-build-the-future-of-digital-manufacturing&#x2F;)
 * [Microsoft Garage opens in Atlanta as a hub for tech talent and community growth](https:&#x2F;&#x2F;www.microsoft.com&#x2F;en-us&#x2F;garage&#x2F;blog&#x2F;2022&#x2F;06&#x2F;microsoft-garage-opens-in-atlanta-as-a-hub-for-tech-talent-and-community-growth-driving-innovation-and-inspiration&#x2F;)
-* [How Microsoft Teams is expanding background noise suppression across platforms and scenarios](https:&#x2F;&#x2F;techcommunity.microsoft.com&#x2F;t5&#x2F;microsoft-teams-blog&#x2F;expanding-background-noise-suppression-across-platforms-and&#x2F;ba-p&#x2F;3300366)
-* [Why buildings are getting more efficient, safe and sustainable](https:&#x2F;&#x2F;cloudblogs.microsoft.com&#x2F;industry-blog&#x2F;government&#x2F;2022&#x2F;06&#x2F;07&#x2F;why-the-future-of-buildings-is-efficient-safe-and-sustainable&#x2F;)
 <!--END_SECTION:news-->
 
 ## Today's Bot Framework Updates
