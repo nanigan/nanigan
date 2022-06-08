@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 
 [![Update this repo's README](https://github.com/nanigan/nanigan/actions/workflows/update.yml/badge.svg)](https://github.com/nanigan/nanigan/actions/workflows/update.yml)
 
-
-[![Publish this repo's README](https://github.com/nanigan/nanigan/actions/workflows/publish.yml/badge.svg)](https://github.com/nanigan/nanigan/actions/workflows/publish.yml)
-
 # RSS Feeds Updated 08:00 AM ET
 
 ## Today's Azure Updates
