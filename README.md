@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ## Today's Azure Blog
 
 <!--START_SECTION:blog-->
-* [Improve outbound connectivity with Azure Virtual Network NAT](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;improve-outbound-connectivity-with-azure-virtual-network-nat&#x2F;)
-* [Top 5 reasons to attend Azure Hybrid, Multicloud, and Edge Day](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;top-5-reasons-to-attend-azure-hybrid-multicloud-and-edge-day&#x2F;)
-* [SUSECON 2022: Powering Business Critical Linux workloads on Azure](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;susecon-2022-powering-business-critical-linux-workloads-on-azure&#x2F;)
-* [Virtual desktop infrastructure security best practices](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;virtual-desktop-infrastructure-security-best-practices&#x2F;)
-* [Unlocking innovative at-home patient care solutions with Azure](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;unlocking-innovative-athome-patient-care-solutions-with-azure&#x2F;)
+* [Simplify and centralize network security management with Azure Firewall Manager](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;simplify-and-centralize-network-security-management-with-azure-firewall-manager&#x2F;)
+* [Discover how you can innovate anywhere with Azure Arc ](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;discover-how-you-can-innovate-anywhere-with-azure-arc&#x2F;)
+* [Azure powers rapid deployment of private 4G and 5G networks](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;azure-powers-rapid-deployment-of-private-4g-and-5g-networks&#x2F;)
+* [MLOps Blog Series Part 1: The art of testing machine learning systems using MLOps](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;mlops-blog-series-part-1-the-art-of-testing-machine-learning-systems-using-mlops&#x2F;)
+* [Supporting openEHR with Azure Health Data Services](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;supporting-openehr-with-azure-health-data-services&#x2F;)
 <!--END_SECTION:blog-->
 
 ## Today's Micrososft News
