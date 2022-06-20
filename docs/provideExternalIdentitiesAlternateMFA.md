@@ -75,7 +75,7 @@ The B2C (Business to Consumer) service is typically (not always) geared toward p
     - Customize MFA configuration separately for external users
     
 - CON
-    - Since the IDs are not provisioned in the customer's tenant, they will not have access to internal SharePoint sites (unless publicly accessible)
+    - B2C doesn't support Microsoft 365 collaboration
     - Additional administrative tasks management an additional Azure Active Directory tenant
 
 - DOCUMENTATION
@@ -142,8 +142,6 @@ Business to Consumer (also known as B2B) refers to guest or external users that 
 # AUTHENTICATION METHODS
 
 Below are the lists of authentication methods supported and whether or not they are a supported method of secondary authentication
-
-
 
 
 <table>
