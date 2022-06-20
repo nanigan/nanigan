@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 ## Today's Azure Updates
 
 <!--START_SECTION:feed-->
-* [General availability: Azure Databricks available in new regions](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;general-availability-azure-databricks-available-in-new-regions&#x2F;)
-* [General availability: Azure SDK for Go](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;general-availability-azure-sdk-for-go&#x2F;)
-* [Public preview: Azure Load Testing supports splitting input data across test engines](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;public-preview-azure-load-testing-supports-splitting-input-data-across-test-engines&#x2F;)
-* [Public preview: Azure Load Testing support for user specified JMeter properties](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;public-preview-azure-load-testing-support-for-user-specified-jmeter-properties&#x2F;)
-* [Public preview: Azure Load Testing support for customer-managed keys](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;public-preview-azure-load-testing-support-for-customermanaged-keys&#x2F;)
+* [Public preview: SMB Continuous Availability shares for Citrix App Layering](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;azure-netapp-files-smb-continuous-availability-ca-shares-for-citrix-app-layering&#x2F;)
+* [Public preview: Resource governance for client applications in Azure Event Hubs](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;resource-governance-for-client-applications-in-azure-event-hubs-public-preview&#x2F;)
+* [Public preview: Apache Parquet capturing support in Azure Event Hubs](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;apache-parquet-capturing-support-in-azure-event-hubs&#x2F;)
+* [Public preview: Azure Virtual Network Manager in nine new regions](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;azure-virtual-network-manager-in-nine-more-regions&#x2F;)
+* [Public preview: ExpressRoute Direct and Circuit in different subscriptions](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;public-preview-expressroute-direct-and-circuit-in-different-subscriptions&#x2F;)
 <!--END_SECTION:feed-->
 
 ## Today's Azure Blog
