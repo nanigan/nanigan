@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 ## Today's Azure Updates
 
 <!--START_SECTION:feed-->
-* [Public preview: SMB Continuous Availability shares for Citrix App Layering](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;azure-netapp-files-smb-continuous-availability-ca-shares-for-citrix-app-layering&#x2F;)
+* [General availability: LDAP signing](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;azure-netapp-files-general-availability-of-ldap-signing&#x2F;)
+* [General availability: Azure GitOps with Flux v2](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;general-availability-of-azure-gitops-with-flux-v2&#x2F;)
 * [Public preview: Resource governance for client applications in Azure Event Hubs](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;resource-governance-for-client-applications-in-azure-event-hubs-public-preview&#x2F;)
 * [Public preview: Apache Parquet capturing support in Azure Event Hubs](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;apache-parquet-capturing-support-in-azure-event-hubs&#x2F;)
 * [Public preview: Azure Virtual Network Manager in nine new regions](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;azure-virtual-network-manager-in-nine-more-regions&#x2F;)
-* [Public preview: ExpressRoute Direct and Circuit in different subscriptions](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;public-preview-expressroute-direct-and-circuit-in-different-subscriptions&#x2F;)
 <!--END_SECTION:feed-->
 
 ## Today's Azure Blog
