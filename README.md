@@ -41,11 +41,11 @@ Here are some ideas to get you started:
 ## Today's Micrososft News
 
 <!--START_SECTION:news-->
-* [World Refugee Day: Tech companies, together, can strengthen the safety net](https:&#x2F;&#x2F;blogs.microsoft.com&#x2F;on-the-issues&#x2F;2022&#x2F;06&#x2F;20&#x2F;world-refugee-day-tech-companies-together-can-strengthen-the-safety-net&#x2F;)
-* [How Immersive Reader helped one student with dyslexia gain the confidence to succeed in school and life](https:&#x2F;&#x2F;educationblog.microsoft.com&#x2F;en-us&#x2F;2022&#x2F;06&#x2F;how-immersive-reader-helped-a-student-succeed-in-school-and-life)
-* [We’re expanding our employee experience platform Microsoft Viva to include new capabilities to meet the needs of specific roles, with the introduction of Viva Sales.](https:&#x2F;&#x2F;www.linkedin.com&#x2F;posts&#x2F;satyanadella_introducing-viva-sales-a-modern-way-of-selling-activity-6943233670405074944-r-Nh?utm_source&#x3D;linkedin_share&amp;utm_medium&#x3D;member_desktop_web)
-* [Introducing Microsoft Defender, an easy-to-use protection app that helps keep your family safe from online threats](https:&#x2F;&#x2F;www.microsoft.com&#x2F;security&#x2F;blog&#x2F;2022&#x2F;06&#x2F;16&#x2F;making-the-world-a-safer-place-with-microsoft-defender-for-individuals&#x2F;)
-* [ID@Xbox Summer Game Fest Demo event starts June 21](https:&#x2F;&#x2F;news.xbox.com&#x2F;en-us&#x2F;2022&#x2F;06&#x2F;16&#x2F;idxbox-summer-game-fest-demo&#x2F;)
+* [Two years into our sustained commitment to address racial inequity both inside and outside Microsoft, it’s inspiring to see how entrepreneurs like Gilbert…](https:&#x2F;&#x2F;www.linkedin.com&#x2F;posts&#x2F;satyanadella_celebrating-black-entrepreneurs-who-are-helping-activity-6945049187130503169-wb8I?utm_source&#x3D;linkedin_share&amp;utm_medium&#x3D;member_desktop_web)
+* [Securing your IoT with Edge Secured-core devices](https:&#x2F;&#x2F;www.microsoft.com&#x2F;security&#x2F;blog&#x2F;2022&#x2F;06&#x2F;20&#x2F;securing-your-iot-devices-with-edge-secured-core-devices&#x2F;)
+* [Microsoft’s framework for building AI systems responsibly](https:&#x2F;&#x2F;blogs.microsoft.com&#x2F;on-the-issues&#x2F;2022&#x2F;06&#x2F;21&#x2F;microsofts-framework-for-building-ai-systems-responsibly&#x2F;)
+* [Celebrating Black entrepreneurs who are helping to make sure each industry ‘looks like America’](https:&#x2F;&#x2F;news.microsoft.com&#x2F;features&#x2F;celebrating-black-entrepreneurs-who-are-helping-to-make-sure-each-industry-looks-like-america&#x2F;)
+* [Download and play 34 games through the ID@Xbox Summer Game Fest demo event](https:&#x2F;&#x2F;news.xbox.com&#x2F;en-us&#x2F;2022&#x2F;06&#x2F;21&#x2F;idxbox-summer-game-fest-demo-event-showcases-34-games&#x2F;)
 <!--END_SECTION:news-->
 
 ## Today's Bot Framework Updates
