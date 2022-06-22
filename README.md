@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ## Today's Azure Blog
 
 <!--START_SECTION:blog-->
+* [See how 3 industry-leading companies are driving innovation in a new episode of Inside Azure for IT](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;see-how-3-industryleading-companies-are-driving-innovation-in-a-new-episode-of-inside-azure-for-it&#x2F;)
+* [Responsible AI investments and safeguards for facial recognition](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;responsible-ai-investments-and-safeguards-for-facial-recognition&#x2F;)
+* [Azure IoT increases enterprise-level intelligent edge and cloud capabilities](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;azure-iot-increases-enterpriselevel-intelligent-edge-and-cloud-capabilities&#x2F;)
 * [Simplify and centralize network security management with Azure Firewall Manager](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;simplify-and-centralize-network-security-management-with-azure-firewall-manager&#x2F;)
 * [Discover how you can innovate anywhere with Azure Arc ](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;discover-how-you-can-innovate-anywhere-with-azure-arc&#x2F;)
-* [Azure powers rapid deployment of private 4G and 5G networks](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;azure-powers-rapid-deployment-of-private-4g-and-5g-networks&#x2F;)
-* [MLOps Blog Series Part 1: The art of testing machine learning systems using MLOps](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;mlops-blog-series-part-1-the-art-of-testing-machine-learning-systems-using-mlops&#x2F;)
-* [Supporting openEHR with Azure Health Data Services](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;supporting-openehr-with-azure-health-data-services&#x2F;)
 <!--END_SECTION:blog-->
 
 ## Today's Micrososft News
