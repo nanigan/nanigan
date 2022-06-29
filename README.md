@@ -41,11 +41,11 @@ Here are some ideas to get you started:
 ## Today's Micrososft News
 
 <!--START_SECTION:news-->
+* [Introducing the Microsoft Climate Research Initiative](https:&#x2F;&#x2F;www.microsoft.com&#x2F;en-us&#x2F;research&#x2F;blog&#x2F;introducing-the-microsoft-climate-research-initiative&#x2F;)
+* [Shift to new Microsoft Learn Educator Center aims to help teachers grow professionally](https:&#x2F;&#x2F;educationblog.microsoft.com&#x2F;en-us&#x2F;2022&#x2F;06&#x2F;grow-professionally-with-the-microsoft-learn-educator-center)
 * [With generational change, Taiwan’s King Steel transforms into an innovation and sustainability leader](https:&#x2F;&#x2F;news.microsoft.com&#x2F;apac&#x2F;features&#x2F;with-generational-change-taiwans-king-steel-transforms-into-an-innovation-and-sustainability-leader&#x2F;)
 * [Microsoft Partner of the Year Awards winners and finalists announced](https:&#x2F;&#x2F;blogs.partner.microsoft.com&#x2F;mpn&#x2F;congratulations-to-the-2022-microsoft-partner-of-the-year-awards-winners-and-finalists&#x2F;)
 * [Introducing new Microsoft Teams on Web features for small businesses](https:&#x2F;&#x2F;techcommunity.microsoft.com&#x2F;t5&#x2F;microsoft-teams-blog&#x2F;introducing-new-microsoft-teams-on-web-features-for-small&#x2F;ba-p&#x2F;3556209)
-* [Toshiba tackles tough optimization problems with Azure Quantum](https:&#x2F;&#x2F;cloudblogs.microsoft.com&#x2F;quantum&#x2F;2022&#x2F;06&#x2F;27&#x2F;toshiba-launches-new-sqbm-quantum-inspired-optimization-provider-on-azure-quantum&#x2F;)
-* [Upgrades coming to Collections in Microsoft Edge](https:&#x2F;&#x2F;blogs.windows.com&#x2F;windowsexperience&#x2F;2022&#x2F;06&#x2F;28&#x2F;upgrades-coming-to-collections-in-microsoft-edge&#x2F;)
 <!--END_SECTION:news-->
 
 ## Today's Bot Framework Updates
