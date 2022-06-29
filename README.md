@@ -41,11 +41,11 @@ Here are some ideas to get you started:
 ## Today's Micrososft News
 
 <!--START_SECTION:news-->
-* [Two years into our sustained commitment to address racial inequity both inside and outside Microsoft, it’s inspiring to see how entrepreneurs like Gilbert…](https:&#x2F;&#x2F;www.linkedin.com&#x2F;posts&#x2F;satyanadella_celebrating-black-entrepreneurs-who-are-helping-activity-6945049187130503169-wb8I?utm_source&#x3D;linkedin_share&amp;utm_medium&#x3D;member_desktop_web)
-* [Securing your IoT with Edge Secured-core devices](https:&#x2F;&#x2F;www.microsoft.com&#x2F;security&#x2F;blog&#x2F;2022&#x2F;06&#x2F;20&#x2F;securing-your-iot-devices-with-edge-secured-core-devices&#x2F;)
-* [Microsoft’s framework for building AI systems responsibly](https:&#x2F;&#x2F;blogs.microsoft.com&#x2F;on-the-issues&#x2F;2022&#x2F;06&#x2F;21&#x2F;microsofts-framework-for-building-ai-systems-responsibly&#x2F;)
-* [Celebrating Black entrepreneurs who are helping to make sure each industry ‘looks like America’](https:&#x2F;&#x2F;news.microsoft.com&#x2F;features&#x2F;celebrating-black-entrepreneurs-who-are-helping-to-make-sure-each-industry-looks-like-america&#x2F;)
-* [Download and play 34 games through the ID@Xbox Summer Game Fest demo event](https:&#x2F;&#x2F;news.xbox.com&#x2F;en-us&#x2F;2022&#x2F;06&#x2F;21&#x2F;idxbox-summer-game-fest-demo-event-showcases-34-games&#x2F;)
+* [Microsoft Partner of the Year Awards winners and finalists announced](https:&#x2F;&#x2F;blogs.partner.microsoft.com&#x2F;mpn&#x2F;congratulations-to-the-2022-microsoft-partner-of-the-year-awards-winners-and-finalists&#x2F;)
+* [Introducing new Microsoft Teams on Web features for small businesses](https:&#x2F;&#x2F;techcommunity.microsoft.com&#x2F;t5&#x2F;microsoft-teams-blog&#x2F;introducing-new-microsoft-teams-on-web-features-for-small&#x2F;ba-p&#x2F;3556209)
+* [Toshiba tackles tough optimization problems with Azure Quantum](https:&#x2F;&#x2F;cloudblogs.microsoft.com&#x2F;quantum&#x2F;2022&#x2F;06&#x2F;27&#x2F;toshiba-launches-new-sqbm-quantum-inspired-optimization-provider-on-azure-quantum&#x2F;)
+* [Upgrades coming to Collections in Microsoft Edge](https:&#x2F;&#x2F;blogs.windows.com&#x2F;windowsexperience&#x2F;2022&#x2F;06&#x2F;28&#x2F;upgrades-coming-to-collections-in-microsoft-edge&#x2F;)
+* [Alexa Carlin takes on her health challenges, turning obstacles into opportunities](https:&#x2F;&#x2F;blogs.windows.com&#x2F;windowsexperience&#x2F;2022&#x2F;06&#x2F;27&#x2F;alexa-carlin-takes-on-her-health-challenges-turning-obstacles-into-opportunities&#x2F;)
 <!--END_SECTION:news-->
 
 ## Today's Bot Framework Updates
