@@ -16,7 +16,7 @@ Customer has a large number of subscriptions containing thousands of virtual mac
 
 ## SCOPE
 
-The customer has requested a solution that solves this problem by restricting the scope of what the users (SOC teams, support teams, security teams, etc.) can see in the MDE portal to only the VMs that that team is responsible for, or to restrict the ability of other organizations from viewing or managing those VMs.
+The customer has requested a solution that solves this problem by restricting the scope of what the users (SOC teams, support teams, security teams, etc.) can see in the MDE portal to only the VMs that that team is responsible for, or to restrict the ability of other organizations from viewing or managing the VMs that belong to corporate security.
 
 ## OPTIONS
 
