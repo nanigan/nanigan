@@ -22,6 +22,8 @@ The customer has requested a solution that solves this problem by restricting th
 
 There are several ways this can be accomplished; each with their advantages and disadvantages. Whichever method is used, each begins with creating [device groups](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/machine-groups?view=o365-worldwide) in the context of role-based access (RBAC) and then assign permissions to AAD groups to the device groups. After access has been migrated from the directory role-based to directory security group granular assignments, only users in those groups assigned the AAD Security Reader and Security Administrator roles that is also assigned permissions to that device group will have the ability to view/manage endpoint devices in the MDE portal.
 
+**All Azure AD Global Admins can view and manage ALL VMs in the MDE portal. Assignment of that role should be very limited**
+
 Device groups can be created and VMs can be added to them using one or many of the multiple available machine property values:
 
 - Name of the machine
