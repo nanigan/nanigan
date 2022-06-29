@@ -1,4 +1,4 @@
-# Defender for Endpoint VM Scope Limitations
+# Defender for Endpoint Scope Limitations
 
 *Authored by:*
 
@@ -12,7 +12,7 @@
 
 ## PROBLEM STATEMENT
 
-Customer has a large number of subscriptions containing thousands of virtual machines. The customer hosts workloads for their customers, which results in issues with managing Endpoint Protection for these WMs in the Microsoft Defender for Endpoint (MDE) portal. Currently, any user with the Azure Active Directory (AAD) Security Reader and Security Administrator roles are able to view VM details and manage the endpoint protection on any VM across the entire tenant. 
+The customer has a large number of subscriptions containing thousands of virtual machines (VMs). The customer hosts workloads for their customers, which results in issues with managing Endpoint Protection for these WMs in the Microsoft Defender for Endpoint (MDE) portal. Currently, any user with the Azure Active Directory (AAD) Security Reader and Security Administrator roles are able to view VM details and manage the endpoint protection on any VM across the entire tenant. 
 
 ## SCOPE
 
@@ -20,7 +20,7 @@ The customer has requested a solution that solves this problem by restricting th
 
 ## OPTIONS
 
-There are several ways this can be accomplished; each with their advantages and disadvantages. The only way to limit this scope begins with creating [device groups](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/machine-groups?view=o365-worldwide) in the context of role-based access (RBAC) and then assign permissions to AAD groups to the device groups. After access has been migrated from the directory role-based to directory security group granular assignments, only users in those groups assigned the AAD Security Reader and Security Administrator roles that is also assigned permissions to that device group will have the ability to view/manage endpoint devices in the MDE portal.
+There are several ways this can be accomplished; each with their advantages and disadvantages. Whichever method is used, each begins with creating [device groups](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/machine-groups?view=o365-worldwide) in the context of role-based access (RBAC) and then assign permissions to AAD groups to the device groups. After access has been migrated from the directory role-based to directory security group granular assignments, only users in those groups assigned the AAD Security Reader and Security Administrator roles that is also assigned permissions to that device group will have the ability to view/manage endpoint devices in the MDE portal.
 
 Device groups can be created and VMs can be added to them using one or many of the multiple available machine property values:
 
@@ -69,6 +69,7 @@ Windows VMs:
 
 ```powershell
 New-ItemProperty -Path "Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Advanced Threat Protection\DeviceTagging\" -Name Group -PropertyType String -Value <value of the tag>
+```
 
 This script could be deployed using the following example methods:
 
@@ -76,8 +77,6 @@ This script could be deployed using the following example methods:
 - Custom script extension
 - Automation Runbook
 - Function or Logic app that uses either a HTTP Hook trigger or on a set schedule
-
-```
 
 Linux VMs:
 - Add device tags utilizing the [mde_installer.sh installer script](https://github.com/microsoft/mdatp-xplat/tree/master/linux/installation) with the flag for VM tagging with the tag values to be assigned.
