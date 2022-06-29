@@ -21,31 +21,31 @@ Here are some ideas to get you started:
 ## Today's Azure Updates
 
 <!--START_SECTION:feed-->
-* [General availability: LDAP signing](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;azure-netapp-files-general-availability-of-ldap-signing&#x2F;)
-* [General availability: Azure GitOps with Flux v2](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;general-availability-of-azure-gitops-with-flux-v2&#x2F;)
-* [Public preview: Resource governance for client applications in Azure Event Hubs](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;resource-governance-for-client-applications-in-azure-event-hubs-public-preview&#x2F;)
-* [Public preview: Apache Parquet capturing support in Azure Event Hubs](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;apache-parquet-capturing-support-in-azure-event-hubs&#x2F;)
-* [Public preview: Azure Virtual Network Manager in nine new regions](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;azure-virtual-network-manager-in-nine-more-regions&#x2F;)
+* [General availability: MATCH clause for Query](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;matchclausequery&#x2F;)
+* [Generally available: Export device data under an organization in Azure IoT Central](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;iotc-export-data-under-organization&#x2F;)
+* [Public preview: Multiple backups per day for Azure Virtual Machines](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;mbpd-azurevm-preview&#x2F;)
+* [Public preview: Create an additional 5000 Azure Storage accounts within your subscription](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;preview-5kaccountlimit&#x2F;)
+* [Azure SQL—Public preview updates for late June 2022](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;azure-sql-public-preview-updates-for-late-june-2022&#x2F;)
 <!--END_SECTION:feed-->
 
 ## Today's Azure Blog
 
 <!--START_SECTION:blog-->
+* [Microsoft Cost Management updates – June 2022](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;microsoft-cost-management-updates-june-2022&#x2F;)
+* [Azure Orbital Ground Station as Service extends life and reduces costs for satellite operators](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;azure-orbital-ground-station-as-service-extends-life-and-reduces-costs-for-satellite-operators&#x2F;)
+* [MLOPs Blog Series Part 2: Testing robustness of secure machine learning systems using machine learning ops](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;mlops-blog-series-part-2-testing-robustness-of-secure-machine-learning-systems-using-machine-learning-ops&#x2F;)
 * [See how 3 industry-leading companies are driving innovation in a new episode of Inside Azure for IT](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;see-how-3-industryleading-companies-are-driving-innovation-in-a-new-episode-of-inside-azure-for-it&#x2F;)
 * [Responsible AI investments and safeguards for facial recognition](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;responsible-ai-investments-and-safeguards-for-facial-recognition&#x2F;)
-* [Azure IoT increases enterprise-level intelligent edge and cloud capabilities](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;azure-iot-increases-enterpriselevel-intelligent-edge-and-cloud-capabilities&#x2F;)
-* [Simplify and centralize network security management with Azure Firewall Manager](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;simplify-and-centralize-network-security-management-with-azure-firewall-manager&#x2F;)
-* [Discover how you can innovate anywhere with Azure Arc ](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;discover-how-you-can-innovate-anywhere-with-azure-arc&#x2F;)
 <!--END_SECTION:blog-->
 
 ## Today's Micrososft News
 
 <!--START_SECTION:news-->
-* [Two years into our sustained commitment to address racial inequity both inside and outside Microsoft, it’s inspiring to see how entrepreneurs like Gilbert…](https:&#x2F;&#x2F;www.linkedin.com&#x2F;posts&#x2F;satyanadella_celebrating-black-entrepreneurs-who-are-helping-activity-6945049187130503169-wb8I?utm_source&#x3D;linkedin_share&amp;utm_medium&#x3D;member_desktop_web)
-* [Securing your IoT with Edge Secured-core devices](https:&#x2F;&#x2F;www.microsoft.com&#x2F;security&#x2F;blog&#x2F;2022&#x2F;06&#x2F;20&#x2F;securing-your-iot-devices-with-edge-secured-core-devices&#x2F;)
-* [Microsoft’s framework for building AI systems responsibly](https:&#x2F;&#x2F;blogs.microsoft.com&#x2F;on-the-issues&#x2F;2022&#x2F;06&#x2F;21&#x2F;microsofts-framework-for-building-ai-systems-responsibly&#x2F;)
-* [Celebrating Black entrepreneurs who are helping to make sure each industry ‘looks like America’](https:&#x2F;&#x2F;news.microsoft.com&#x2F;features&#x2F;celebrating-black-entrepreneurs-who-are-helping-to-make-sure-each-industry-looks-like-america&#x2F;)
-* [Download and play 34 games through the ID@Xbox Summer Game Fest demo event](https:&#x2F;&#x2F;news.xbox.com&#x2F;en-us&#x2F;2022&#x2F;06&#x2F;21&#x2F;idxbox-summer-game-fest-demo-event-showcases-34-games&#x2F;)
+* [Microsoft Partner of the Year Awards winners and finalists announced](https:&#x2F;&#x2F;blogs.partner.microsoft.com&#x2F;mpn&#x2F;congratulations-to-the-2022-microsoft-partner-of-the-year-awards-winners-and-finalists&#x2F;)
+* [Introducing new Microsoft Teams on Web features for small businesses](https:&#x2F;&#x2F;techcommunity.microsoft.com&#x2F;t5&#x2F;microsoft-teams-blog&#x2F;introducing-new-microsoft-teams-on-web-features-for-small&#x2F;ba-p&#x2F;3556209)
+* [Toshiba tackles tough optimization problems with Azure Quantum](https:&#x2F;&#x2F;cloudblogs.microsoft.com&#x2F;quantum&#x2F;2022&#x2F;06&#x2F;27&#x2F;toshiba-launches-new-sqbm-quantum-inspired-optimization-provider-on-azure-quantum&#x2F;)
+* [Upgrades coming to Collections in Microsoft Edge](https:&#x2F;&#x2F;blogs.windows.com&#x2F;windowsexperience&#x2F;2022&#x2F;06&#x2F;28&#x2F;upgrades-coming-to-collections-in-microsoft-edge&#x2F;)
+* [Alexa Carlin takes on her health challenges, turning obstacles into opportunities](https:&#x2F;&#x2F;blogs.windows.com&#x2F;windowsexperience&#x2F;2022&#x2F;06&#x2F;27&#x2F;alexa-carlin-takes-on-her-health-challenges-turning-obstacles-into-opportunities&#x2F;)
 <!--END_SECTION:news-->
 
 ## Today's Bot Framework Updates
