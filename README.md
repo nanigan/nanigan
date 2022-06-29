@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ## Today's Azure Blog
 
 <!--START_SECTION:blog-->
+* [Microsoft Cost Management updates – June 2022](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;microsoft-cost-management-updates-june-2022&#x2F;)
+* [Azure Orbital Ground Station as Service extends life and reduces costs for satellite operators](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;azure-orbital-ground-station-as-service-extends-life-and-reduces-costs-for-satellite-operators&#x2F;)
+* [MLOPs Blog Series Part 2: Testing robustness of secure machine learning systems using machine learning ops](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;mlops-blog-series-part-2-testing-robustness-of-secure-machine-learning-systems-using-machine-learning-ops&#x2F;)
 * [See how 3 industry-leading companies are driving innovation in a new episode of Inside Azure for IT](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;see-how-3-industryleading-companies-are-driving-innovation-in-a-new-episode-of-inside-azure-for-it&#x2F;)
 * [Responsible AI investments and safeguards for facial recognition](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;responsible-ai-investments-and-safeguards-for-facial-recognition&#x2F;)
-* [Azure IoT increases enterprise-level intelligent edge and cloud capabilities](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;azure-iot-increases-enterpriselevel-intelligent-edge-and-cloud-capabilities&#x2F;)
-* [Simplify and centralize network security management with Azure Firewall Manager](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;simplify-and-centralize-network-security-management-with-azure-firewall-manager&#x2F;)
-* [Discover how you can innovate anywhere with Azure Arc ](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;discover-how-you-can-innovate-anywhere-with-azure-arc&#x2F;)
 <!--END_SECTION:blog-->
 
 ## Today's Micrososft News
