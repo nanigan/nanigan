@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 ## Today's Azure Updates
 
 <!--START_SECTION:feed-->
-* [General availability: LDAP signing](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;azure-netapp-files-general-availability-of-ldap-signing&#x2F;)
-* [General availability: Azure GitOps with Flux v2](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;general-availability-of-azure-gitops-with-flux-v2&#x2F;)
-* [Public preview: Resource governance for client applications in Azure Event Hubs](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;resource-governance-for-client-applications-in-azure-event-hubs-public-preview&#x2F;)
-* [Public preview: Apache Parquet capturing support in Azure Event Hubs](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;apache-parquet-capturing-support-in-azure-event-hubs&#x2F;)
-* [Public preview: Azure Virtual Network Manager in nine new regions](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;azure-virtual-network-manager-in-nine-more-regions&#x2F;)
+* [General availability: MATCH clause for Query](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;matchclausequery&#x2F;)
+* [Generally available: Export device data under an organization in Azure IoT Central](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;iotc-export-data-under-organization&#x2F;)
+* [Public preview: Multiple backups per day for Azure Virtual Machines](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;mbpd-azurevm-preview&#x2F;)
+* [Public preview: Create an additional 5000 Azure Storage accounts within your subscription](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;preview-5kaccountlimit&#x2F;)
+* [Azure SQL—Public preview updates for late June 2022](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;azure-sql-public-preview-updates-for-late-june-2022&#x2F;)
 <!--END_SECTION:feed-->
 
 ## Today's Azure Blog
