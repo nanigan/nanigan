@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 ## Today's Azure Updates
 
 <!--START_SECTION:feed-->
-* [General availability: MATCH clause for Query](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;matchclausequery&#x2F;)
-* [Generally available: Export device data under an organization in Azure IoT Central](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;iotc-export-data-under-organization&#x2F;)
-* [Public preview: Multiple backups per day for Azure Virtual Machines](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;mbpd-azurevm-preview&#x2F;)
-* [Public preview: Create an additional 5000 Azure Storage accounts within your subscription](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;preview-5kaccountlimit&#x2F;)
-* [Azure SQL—Public preview updates for late June 2022](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;azure-sql-public-preview-updates-for-late-june-2022&#x2F;)
+* [General availability: Azure Archive Storage now available in South Africa North](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;general-availability-azure-archive-storage-now-available-in-south-africa-north&#x2F;)
+* [Public preview: Migration tools for Azure Monitor Agent](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;public-preview-migration-tools-for-azure-monitor-agent&#x2F;)
+* [General availability: Azure Database for PostgreSQL—Hyperscale (Citus) supports PostgreSQL minor versions](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;general-availability-azure-database-for-postgresql-hyperscale-citus-supports-postgresql-minor-versions-3&#x2F;)
+* [Generally available: Azure Functions retry policy for Event Hubs and timer triggers ](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;generally-available-azure-functions-retry-policy-for-event-hubs-and-timer-triggers&#x2F;)
+* [Generally available: Azure Digital Twins Data history](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;generally-available-azure-digital-twins-data-history&#x2F;)
 <!--END_SECTION:feed-->
 
 ## Today's Azure Blog
