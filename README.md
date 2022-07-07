@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ## Today's Azure Blog
 
 <!--START_SECTION:blog-->
-* [Microsoft Cost Management updates – June 2022](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;microsoft-cost-management-updates-june-2022&#x2F;)
-* [Azure Orbital Ground Station as Service extends life and reduces costs for satellite operators](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;azure-orbital-ground-station-as-service-extends-life-and-reduces-costs-for-satellite-operators&#x2F;)
-* [MLOPs Blog Series Part 2: Testing robustness of secure machine learning systems using machine learning ops](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;mlops-blog-series-part-2-testing-robustness-of-secure-machine-learning-systems-using-machine-learning-ops&#x2F;)
-* [See how 3 industry-leading companies are driving innovation in a new episode of Inside Azure for IT](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;see-how-3-industryleading-companies-are-driving-innovation-in-a-new-episode-of-inside-azure-for-it&#x2F;)
-* [Responsible AI investments and safeguards for facial recognition](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;responsible-ai-investments-and-safeguards-for-facial-recognition&#x2F;)
+* [What is desktop as a service (DaaS) and how can it help your organization?](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;what-is-desktop-as-a-service-daas-and-how-can-it-help-your-organization&#x2F;)
+* [Digital transformation for manufacturers requires additional IT&#x2F;OT security](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;digital-transformation-for-manufacturers-requires-additional-itot-security&#x2F;)
+* [How to choose the right Azure services for your applications—It’s not A or B](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;how-to-choose-the-right-azure-services-for-your-applications-it-s-not-a-or-b&#x2F;)
+* [Choose the right size for your workload with NVads A10 v5 virtual machines, now generally available](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;choose-the-right-size-for-your-workload-with-nvads-a10-v5-virtual-machines-now-generally-available&#x2F;)
+* [MLOps Blog Series Part 3: Testing scalability of secure machine learning systems using MLOps](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;mlops-blog-series-part-3-testing-scalability-of-secure-machine-learning-systems-using-mlops&#x2F;)
 <!--END_SECTION:blog-->
 
 ## Today's Micrososft News
