@@ -41,11 +41,11 @@ Here are some ideas to get you started:
 ## Today's Micrososft News
 
 <!--START_SECTION:news-->
-* [Microsoft datacenter batteries to support growth of renewables on the power grid](https:&#x2F;&#x2F;news.microsoft.com&#x2F;innovation-stories&#x2F;ireland-wind-farm-datacenter-ups&#x2F;)
-* [Microsoft Research AI4Science to empower the fifth paradigm of scientific discovery](https:&#x2F;&#x2F;www.microsoft.com&#x2F;en-us&#x2F;research&#x2F;blog&#x2F;ai4science-to-empower-the-fifth-paradigm-of-scientific-discovery&#x2F;)
-* [Microsoft Entra Permissions Management now generally available](https:&#x2F;&#x2F;techcommunity.microsoft.com&#x2F;t5&#x2F;microsoft-entra-azure-ad-blog&#x2F;microsoft-entra-permissions-management-is-now-generally&#x2F;ba-p&#x2F;3290630)
-* [Tools and Weapons with Brad Smith: New podcast from Microsoft president and vice chair exploring critical challenges at the intersection of technology and society](https:&#x2F;&#x2F;news.microsoft.com&#x2F;tools-and-weapons-podcast&#x2F;)
-* [How AI is helping create more inclusive TV experience in Japan for those who are deaf or hard of hearing](https:&#x2F;&#x2F;blogs.microsoft.com&#x2F;accessibility&#x2F;ai-mimi-is-building-inclusive-tv-experiences-for-deaf-and-hard-of-hearing-user-in-japan&#x2F;)
+* [I’m looking forward to Inspire next week, where we’ll share how we’re creating new opportunity for partners to help customers do more with less…](https:&#x2F;&#x2F;www.linkedin.com&#x2F;posts&#x2F;satyanadella_microsoft-inspire-join-us-july-19-20-2022-activity-6953399444172128256-2jZ7?utm_source&#x3D;linkedin_share&amp;utm_medium&#x3D;member_desktop_web)
+* [A street-by-street view of digital inequity in the United States](https:&#x2F;&#x2F;blogs.microsoft.com&#x2F;on-the-issues&#x2F;2022&#x2F;07&#x2F;14&#x2F;digital-inequity-dashboard-broadband-access&#x2F;)
+* [Microsoft joins Jakarta EE and MicroProfile Working Groups at Eclipse Foundation](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;blog&#x2F;microsoft-joins-jakarta-ee-and-microprofile-working-groups-at-eclipse-foundation&#x2F;)
+* [Microsoft Inspire 2022 coming July 19-20: Empowering partners in every industry](https:&#x2F;&#x2F;cloudblogs.microsoft.com&#x2F;industry-blog&#x2F;general&#x2F;2022&#x2F;07&#x2F;14&#x2F;microsoft-inspire-2022-empowering-partners-to-drive-transformation-in-every-industry&#x2F;)
+* [We’re thrilled Netflix has selected Microsoft as its advertising technology and sales partner. We want publishers to have more long-term viable ad…](https:&#x2F;&#x2F;www.linkedin.com&#x2F;posts&#x2F;satyanadella_netflix-names-microsoft-as-partner-for-new-activity-6953054082471264256-31YI?utm_source&#x3D;linkedin_share&amp;utm_medium&#x3D;member_desktop_web)
 <!--END_SECTION:news-->
 
 ## Today's Bot Framework Updates
