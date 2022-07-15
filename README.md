@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ## Today's Azure Blog
 
 <!--START_SECTION:blog-->
-* [What is desktop as a service (DaaS) and how can it help your organization?](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;what-is-desktop-as-a-service-daas-and-how-can-it-help-your-organization&#x2F;)
-* [Digital transformation for manufacturers requires additional IT&#x2F;OT security](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;digital-transformation-for-manufacturers-requires-additional-itot-security&#x2F;)
-* [How to choose the right Azure services for your applications—It’s not A or B](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;how-to-choose-the-right-azure-services-for-your-applications-it-s-not-a-or-b&#x2F;)
-* [Choose the right size for your workload with NVads A10 v5 virtual machines, now generally available](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;choose-the-right-size-for-your-workload-with-nvads-a10-v5-virtual-machines-now-generally-available&#x2F;)
-* [MLOps Blog Series Part 3: Testing scalability of secure machine learning systems using MLOps](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;mlops-blog-series-part-3-testing-scalability-of-secure-machine-learning-systems-using-mlops&#x2F;)
+* [Gateway Load Balancer now generally available in all regions](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;gateway-load-balancer-now-generally-available-in-all-regions&#x2F;)
+* [Microsoft joins Jakarta EE and MicroProfile Working Groups at Eclipse Foundation](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;microsoft-joins-jakarta-ee-and-microprofile-working-groups-at-eclipse-foundation&#x2F;)
+* [Accelerating capital markets workloads for Murex on Azure](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;accelerating-capital-markets-workloads-for-murex-on-azure&#x2F;)
+* [Modernize with Azure Migrate](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;modernize-with-azure-migrate&#x2F;)
+* [MLOps Blog Series Part 4: Testing security of secure machine learning systems using MLOps](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;mlops-blog-series-part-4-testing-security-of-secure-machine-learning-systems-using-mlops&#x2F;)
 <!--END_SECTION:blog-->
 
 ## Today's Micrososft News
