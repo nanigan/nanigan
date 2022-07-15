@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 ## Today's Azure Updates
 
 <!--START_SECTION:feed-->
-* [General availability: Azure Archive Storage now available in South Africa North](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;general-availability-azure-archive-storage-now-available-in-south-africa-north&#x2F;)
-* [Public preview: Migration tools for Azure Monitor Agent](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;public-preview-migration-tools-for-azure-monitor-agent&#x2F;)
-* [General availability: Azure Database for PostgreSQL—Hyperscale (Citus) supports PostgreSQL minor versions](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;general-availability-azure-database-for-postgresql-hyperscale-citus-supports-postgresql-minor-versions-3&#x2F;)
-* [Generally available: Azure Functions retry policy for Event Hubs and timer triggers ](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;generally-available-azure-functions-retry-policy-for-event-hubs-and-timer-triggers&#x2F;)
-* [Generally available: Azure Digital Twins Data history](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;generally-available-azure-digital-twins-data-history&#x2F;)
+* [Generally available: Azure Site Recovery update rollup 62 - July 2022](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;generally-available-azure-site-recovery-update-rollup-62-july-2022&#x2F;)
+* [Generally available: Exporting device customizations and cloud properties in Azure IoT Central](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;iotc-export-customizations-and-cloud-properties&#x2F;)
+* [Generally available: Azure Gateway Load Balancer](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;generally-available-azure-gateway-load-balancer&#x2F;)
+* [Generally available: Azure IoT Edge 1.3.0 release](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;azure-iot-edge-130-release-is-now-generally-available&#x2F;)
+* [Public preview: Azure Active Directory authentication for exporting and importing Managed Disks ](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;public-preview-azure-active-directory-authentication-for-exporting-and-importing-managed-disks&#x2F;)
 <!--END_SECTION:feed-->
 
 ## Today's Azure Blog
