@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ## Today's Azure Blog
 
 <!--START_SECTION:blog-->
+* [Migrate and modernize with Azure to power innovation across the entire digital estate](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;migrate-and-modernize-with-azure-to-power-innovation-across-the-entire-digital-estate&#x2F;)
+* [Azure Premium SSD v2 Disk Storage in preview](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;azure-premium-ssd-v2-disk-storage-in-preview&#x2F;)
 * [Gateway Load Balancer now generally available in all regions](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;gateway-load-balancer-now-generally-available-in-all-regions&#x2F;)
 * [Microsoft joins Jakarta EE and MicroProfile Working Groups at Eclipse Foundation](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;microsoft-joins-jakarta-ee-and-microprofile-working-groups-at-eclipse-foundation&#x2F;)
 * [Accelerating capital markets workloads for Murex on Azure](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;accelerating-capital-markets-workloads-for-murex-on-azure&#x2F;)
-* [Modernize with Azure Migrate](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;modernize-with-azure-migrate&#x2F;)
-* [MLOps Blog Series Part 4: Testing security of secure machine learning systems using MLOps](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;mlops-blog-series-part-4-testing-security-of-secure-machine-learning-systems-using-mlops&#x2F;)
 <!--END_SECTION:blog-->
 
 ## Today's Micrososft News
