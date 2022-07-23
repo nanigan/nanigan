@@ -41,11 +41,11 @@ Here are some ideas to get you started:
 ## Today's Micrososft News
 
 <!--START_SECTION:news-->
-* [I’m looking forward to Inspire next week, where we’ll share how we’re creating new opportunity for partners to help customers do more with less…](https:&#x2F;&#x2F;www.linkedin.com&#x2F;posts&#x2F;satyanadella_microsoft-inspire-join-us-july-19-20-2022-activity-6953399444172128256-2jZ7?utm_source&#x3D;linkedin_share&amp;utm_medium&#x3D;member_desktop_web)
-* [A street-by-street view of digital inequity in the United States](https:&#x2F;&#x2F;blogs.microsoft.com&#x2F;on-the-issues&#x2F;2022&#x2F;07&#x2F;14&#x2F;digital-inequity-dashboard-broadband-access&#x2F;)
-* [Microsoft joins Jakarta EE and MicroProfile Working Groups at Eclipse Foundation](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;blog&#x2F;microsoft-joins-jakarta-ee-and-microprofile-working-groups-at-eclipse-foundation&#x2F;)
-* [Microsoft Inspire 2022 coming July 19-20: Empowering partners in every industry](https:&#x2F;&#x2F;cloudblogs.microsoft.com&#x2F;industry-blog&#x2F;general&#x2F;2022&#x2F;07&#x2F;14&#x2F;microsoft-inspire-2022-empowering-partners-to-drive-transformation-in-every-industry&#x2F;)
-* [We’re thrilled Netflix has selected Microsoft as its advertising technology and sales partner. We want publishers to have more long-term viable ad…](https:&#x2F;&#x2F;www.linkedin.com&#x2F;posts&#x2F;satyanadella_netflix-names-microsoft-as-partner-for-new-activity-6953054082471264256-31YI?utm_source&#x3D;linkedin_share&amp;utm_medium&#x3D;member_desktop_web)
+* [AI-equipped drones study dolphins on the edge of extinction](https:&#x2F;&#x2F;news.microsoft.com&#x2F;apac&#x2F;features&#x2F;ai-drones-dolphins-maui63&#x2F;)
+* [In partnership with Oracle, we’re making it easier for customers to run their most important apps across both our cloud platforms.](https:&#x2F;&#x2F;www.linkedin.com&#x2F;posts&#x2F;satyanadella_oracle-and-microsoft-announce-availability-activity-6955610802137554944-Uh_E?utm_source&#x3D;linkedin_share&amp;utm_medium&#x3D;member_desktop_web)
+* [Connect your worlds: Discord Voice chat comes to Xbox consoles for Xbox Insiders](https:&#x2F;&#x2F;news.xbox.com&#x2F;en-us&#x2F;2022&#x2F;07&#x2F;20&#x2F;discord-voice-chat-for-xbox-insiders&#x2F;)
+* [Xbox launching programs to inspire the next generation of women gamers and athletes](https:&#x2F;&#x2F;news.xbox.com&#x2F;en-us&#x2F;2022&#x2F;07&#x2F;20&#x2F;xbox-celebrates-the-next-generation-of-women-in-sports-gaming-and-more&#x2F;)
+* [Microsoft Teams Connect shared channels moving into generally availability](https:&#x2F;&#x2F;techcommunity.microsoft.com&#x2F;t5&#x2F;microsoft-teams-blog&#x2F;microsoft-teams-connect-shared-channels-is-moving-into-generally&#x2F;ba-p&#x2F;3568000)
 <!--END_SECTION:news-->
 
 ## Today's Bot Framework Updates
