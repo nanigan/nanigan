@@ -21,31 +21,31 @@ Here are some ideas to get you started:
 ## Today's Azure Updates
 
 <!--START_SECTION:feed-->
-* [General availability: Azure Archive Storage now available in South Africa North](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;general-availability-azure-archive-storage-now-available-in-south-africa-north&#x2F;)
-* [Public preview: Migration tools for Azure Monitor Agent](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;public-preview-migration-tools-for-azure-monitor-agent&#x2F;)
-* [General availability: Azure Database for PostgreSQL—Hyperscale (Citus) supports PostgreSQL minor versions](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;general-availability-azure-database-for-postgresql-hyperscale-citus-supports-postgresql-minor-versions-3&#x2F;)
-* [Generally available: Azure Functions retry policy for Event Hubs and timer triggers ](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;generally-available-azure-functions-retry-policy-for-event-hubs-and-timer-triggers&#x2F;)
-* [Generally available: Azure Digital Twins Data history](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;generally-available-azure-digital-twins-data-history&#x2F;)
+* [General availability: NVads A10 v5 Virtual Machines](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;general-availability-nvads-a10-v5-virtual-machines&#x2F;)
+* [Public preview: Enhanced experience to opt in to improved backup alerting](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;public-preview-template-based-experience-to-migrate-to-azure-monitor-alerts-for-backup&#x2F;)
+* [Generally available: Live resize for Premium SSD and Standard SSD Disk Storage ](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;generally-available-live-resize-for-premium-ssd-and-standard-ssd-disk-storage&#x2F;)
+* [General availability: Azure confidential VMs (DCasv5&#x2F;ECasv5-series VMs) ](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;azureconfidentialvm&#x2F;)
+* [Public preview: Azure Monitor for SAP solutions ](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;en-us&#x2F;updates&#x2F;preview-of-azure-monitor-for-sap-solutions&#x2F;)
 <!--END_SECTION:feed-->
 
 ## Today's Azure Blog
 
 <!--START_SECTION:blog-->
-* [What is desktop as a service (DaaS) and how can it help your organization?](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;what-is-desktop-as-a-service-daas-and-how-can-it-help-your-organization&#x2F;)
-* [Digital transformation for manufacturers requires additional IT&#x2F;OT security](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;digital-transformation-for-manufacturers-requires-additional-itot-security&#x2F;)
-* [How to choose the right Azure services for your applications—It’s not A or B](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;how-to-choose-the-right-azure-services-for-your-applications-it-s-not-a-or-b&#x2F;)
-* [Choose the right size for your workload with NVads A10 v5 virtual machines, now generally available](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;choose-the-right-size-for-your-workload-with-nvads-a10-v5-virtual-machines-now-generally-available&#x2F;)
-* [MLOps Blog Series Part 3: Testing scalability of secure machine learning systems using MLOps](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;mlops-blog-series-part-3-testing-scalability-of-secure-machine-learning-systems-using-mlops&#x2F;)
+* [Migrate and modernize with Azure to power innovation across the entire digital estate](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;migrate-and-modernize-with-azure-to-power-innovation-across-the-entire-digital-estate&#x2F;)
+* [Azure Premium SSD v2 Disk Storage in preview](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;azure-premium-ssd-v2-disk-storage-in-preview&#x2F;)
+* [Gateway Load Balancer now generally available in all regions](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;gateway-load-balancer-now-generally-available-in-all-regions&#x2F;)
+* [Microsoft joins Jakarta EE and MicroProfile Working Groups at Eclipse Foundation](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;microsoft-joins-jakarta-ee-and-microprofile-working-groups-at-eclipse-foundation&#x2F;)
+* [Accelerating capital markets workloads for Murex on Azure](https:&#x2F;&#x2F;azure.microsoft.com&#x2F;blog&#x2F;accelerating-capital-markets-workloads-for-murex-on-azure&#x2F;)
 <!--END_SECTION:blog-->
 
 ## Today's Micrososft News
 
 <!--START_SECTION:news-->
-* [Microsoft datacenter batteries to support growth of renewables on the power grid](https:&#x2F;&#x2F;news.microsoft.com&#x2F;innovation-stories&#x2F;ireland-wind-farm-datacenter-ups&#x2F;)
-* [Microsoft Research AI4Science to empower the fifth paradigm of scientific discovery](https:&#x2F;&#x2F;www.microsoft.com&#x2F;en-us&#x2F;research&#x2F;blog&#x2F;ai4science-to-empower-the-fifth-paradigm-of-scientific-discovery&#x2F;)
-* [Microsoft Entra Permissions Management now generally available](https:&#x2F;&#x2F;techcommunity.microsoft.com&#x2F;t5&#x2F;microsoft-entra-azure-ad-blog&#x2F;microsoft-entra-permissions-management-is-now-generally&#x2F;ba-p&#x2F;3290630)
-* [Tools and Weapons with Brad Smith: New podcast from Microsoft president and vice chair exploring critical challenges at the intersection of technology and society](https:&#x2F;&#x2F;news.microsoft.com&#x2F;tools-and-weapons-podcast&#x2F;)
-* [How AI is helping create more inclusive TV experience in Japan for those who are deaf or hard of hearing](https:&#x2F;&#x2F;blogs.microsoft.com&#x2F;accessibility&#x2F;ai-mimi-is-building-inclusive-tv-experiences-for-deaf-and-hard-of-hearing-user-in-japan&#x2F;)
+* [AI-equipped drones study dolphins on the edge of extinction](https:&#x2F;&#x2F;news.microsoft.com&#x2F;apac&#x2F;features&#x2F;ai-drones-dolphins-maui63&#x2F;)
+* [In partnership with Oracle, we’re making it easier for customers to run their most important apps across both our cloud platforms.](https:&#x2F;&#x2F;www.linkedin.com&#x2F;posts&#x2F;satyanadella_oracle-and-microsoft-announce-availability-activity-6955610802137554944-Uh_E?utm_source&#x3D;linkedin_share&amp;utm_medium&#x3D;member_desktop_web)
+* [Connect your worlds: Discord Voice chat comes to Xbox consoles for Xbox Insiders](https:&#x2F;&#x2F;news.xbox.com&#x2F;en-us&#x2F;2022&#x2F;07&#x2F;20&#x2F;discord-voice-chat-for-xbox-insiders&#x2F;)
+* [Xbox launching programs to inspire the next generation of women gamers and athletes](https:&#x2F;&#x2F;news.xbox.com&#x2F;en-us&#x2F;2022&#x2F;07&#x2F;20&#x2F;xbox-celebrates-the-next-generation-of-women-in-sports-gaming-and-more&#x2F;)
+* [Microsoft Teams Connect shared channels moving into generally availability](https:&#x2F;&#x2F;techcommunity.microsoft.com&#x2F;t5&#x2F;microsoft-teams-blog&#x2F;microsoft-teams-connect-shared-channels-is-moving-into-generally&#x2F;ba-p&#x2F;3568000)
 <!--END_SECTION:news-->
 
 ## Today's Bot Framework Updates

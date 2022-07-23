@@ -268,4 +268,9 @@ New-GuestConfigurationPolicy `
 ## Notes/Limitations
 
 - Azure Policy definitions in the category 'Guest Configuration' can be assigned to Management Groups only when the effect is 'AuditIfNotExists'. Policy definitions with effect 'DeployIfNotExists' aren't supported as assignments to Management Groups
+<<<<<<< HEAD
 - Remote PowerShell must be enabled on target VMs
+=======
+- Remote PowerShell must be enabled on target VMs
+    
+>>>>>>> 0de14257f052cc5aa7b8792e71bc95d02dcd26f5
