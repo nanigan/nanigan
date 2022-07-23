@@ -18,7 +18,7 @@
 
 ## ARCHITECTURE DESIGN
 
-<img src="images/adoArch.png" alt="Employee data" width="900" height="600" title="Architecture Design">
+<img src="images/adoArch.png" alt="Employee data" width="800" height="558" title="Architecture Design">
 
 ---
 
